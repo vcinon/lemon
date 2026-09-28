@@ -1,0 +1,9 @@
+/lemon
+/src/
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+*.so
+*.test
+/dist/
